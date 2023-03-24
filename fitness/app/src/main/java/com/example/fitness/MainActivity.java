@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, Ehlel1.class));
                 finish();
             }
-        },3000);
+        },1500);
 
     }
 }
